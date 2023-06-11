@@ -4,7 +4,7 @@ const bioData = [
         name: 'It Never Ends',
         username: 'Agcrismanto Budhi Praswastyka, Dhea Kamelia',
         url: 'https://aghea.site',
-        avatar: 'https://raw.githubusercontent.com/agheamusic/agheamusic.github.io/main/images/It%20Never%20Ends.png',
+        avatar: '/It%20Never%20Ends.png',
         nftAvatar: false,
         description: 'This song was made for gear testing and to honour the work of the great band, Bring Me The Horizon.',
         descShow: true,
