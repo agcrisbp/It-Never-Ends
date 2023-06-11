@@ -85,14 +85,14 @@ const webLinks = [
     {
         title: 'Apple Music',
         url: 'https://apple.co/3l5wRXV',
-        type: 'It Never Ends',
+        type: 'releases',
         icon: 'https://raw.githubusercontent.com/agcrisbp/aghea/main/images/app.png?token=GHSAT0AAAAAACDCZHPJ26FJOXLGYLLDDB6YZEFN4WA',
         on: true
     },
     {
         title: 'Spotify',
         url: 'https://spoti.fi/3yvqLDl',
-        type: 'It Never Ends',
+        type: 'releases',
         icon: 'https://raw.githubusercontent.com/agcrisbp/aghea/main/images/spo.png?token=GHSAT0AAAAAACDCZHPIZZSFMADAP3JPDFX2ZEFOAFA',
         on: true
     },
@@ -105,14 +105,14 @@ const webLinks = [
     {
         title: 'Deezer',
         url: 'https://bit.ly/ITE-Deezer',
-        type: 'It Never Ends',
+        type: 'releases',
         icon: 'https://raw.githubusercontent.com/agcrisbp/aghea/main/images/deezer.png?token=GHSAT0AAAAAACDCZHPJSXHCZTL5KOCJWYRGZEFN5UQ',
         on: true
     },
     {
         title: 'Amazon Music',
         url: 'https://amzn.to/3YGUKTq',
-        type: 'It Never Ends',
+        type: 'releases',
         icon: 'https://raw.githubusercontent.com/agcrisbp/aghea/d2307c2ad071ce43231347c9a29f3a82aee59843/images/amazon.png?token=GHSAT0AAAAAACDCZHPIXXSRMA7YTZLIRKXEZEFNY6Q',
         on: true
     },
