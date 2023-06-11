@@ -85,36 +85,35 @@ const webLinks = [
     {
         title: 'Apple Music',
         url: 'https://apple.co/3l5wRXV',
-        type: 'releases',
-        icon: 'https://raw.githubusercontent.com/agheamusic/agheamusic.github.io/main/images/app.png',
+        type: 'It Never Ends',
+        icon: 'https://raw.githubusercontent.com/agcrisbp/aghea/main/images/app.png?token=GHSAT0AAAAAACDCZHPJ26FJOXLGYLLDDB6YZEFN4WA',
         on: true
     },
     {
         title: 'Spotify',
         url: 'https://spoti.fi/3yvqLDl',
-        type: 'releases',
-        icon: 'https://raw.githubusercontent.com/agheamusic/agheamusic.github.io/main/images/spo.png',
+        type: 'It Never Ends',
+        icon: 'https://raw.githubusercontent.com/agcrisbp/aghea/main/images/spo.png?token=GHSAT0AAAAAACDCZHPIZZSFMADAP3JPDFX2ZEFOAFA',
         on: true
     },
     {
         title: 'YouTube Music',
         url: 'https://bit.ly/ITE-YTM',
-        type: 'releases',
-        icon: 'https://raw.githubusercontent.com/agheamusic/agheamusic.github.io/main/images/ytm.png',
+        type: 'https://raw.githubusercontent.com/agcrisbp/aghea/main/images/ytm.png?token=GHSAT0AAAAAACDCZHPJIXEM2XKT2E3COESQZEFN7WQ',
         on: true
     },
     {
         title: 'Deezer',
         url: 'https://bit.ly/ITE-Deezer',
-        type: 'releases',
-        icon: 'https://raw.githubusercontent.com/agheamusic/agheamusic.github.io/main/images/deezer.png',
+        type: 'It Never Ends',
+        icon: 'https://raw.githubusercontent.com/agcrisbp/aghea/main/images/deezer.png?token=GHSAT0AAAAAACDCZHPJSXHCZTL5KOCJWYRGZEFN5UQ',
         on: true
     },
     {
         title: 'Amazon Music',
         url: 'https://amzn.to/3YGUKTq',
-        type: 'releases',
-        icon: 'https://raw.githubusercontent.com/agheamusic/agheamusic.github.io/main/images/amazon.png',
+        type: 'It Never Ends',
+        icon: 'https://raw.githubusercontent.com/agcrisbp/aghea/d2307c2ad071ce43231347c9a29f3a82aee59843/images/amazon.png?token=GHSAT0AAAAAACDCZHPIXXSRMA7YTZLIRKXEZEFNY6Q',
         on: true
     },
 ];
