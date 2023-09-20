@@ -99,7 +99,8 @@ const webLinks = [
     {
         title: 'YouTube Music',
         url: 'https://bit.ly/ITE-YTM',
-        type: '/ytm.png',
+        type: 'releases',
+        icon: '/ytm.png',
         on: true
     },
     {
