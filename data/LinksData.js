@@ -105,7 +105,7 @@ const webLinks = [
     },
     {
         title: 'Deezer',
-        url: 'https://bit.ly/ITE-Deezer',
+        url: 'https://bit.ly/49vDaZ6',
         type: 'releases',
         icon: '/deezer.png',
         on: true
